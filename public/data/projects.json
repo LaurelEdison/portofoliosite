@@ -1,0 +1,19 @@
+[
+    {
+      "title": "clashcoder",
+      "cover": "./images/clashcoder.jpg",
+      "github": "https://github.com/LaurelEdison/clashcoder",
+      "external": "https://github.com/LaurelEdison/clashcoder",
+      "tech": ["Go", "Docker", "PostgreSQL", "Websockets"],
+      "description": "Built a web platform for practicing algorithmic problems with user authentication, problem management, and submission tracking. Designed REST APIs for user management, submissions, and lobbies. Developed a Docker-based code judge worker to safely compile and run untrusted solutions in isolated containers. This project is similar to leetcode but it has a multiplayer lobby system"
+    },
+    {
+      "title": "Homecare-app",
+      "cover": "./images/homecareapp.png",
+      "github": "https://github.com/LaurelEdison/homecare-app",
+      "external": "https://github.com/LaurelEdison/homecare-app",
+      "tech": ["C#", "MsSQL","ASP.NET","HTML/CSS","JS"],
+      "description": "Developed a web app for elderly people to order homecare as an end of semester project"
+    }
+  ]
+  

@@ -1,0 +1,12 @@
+[
+  { "name": "Python", "icon": "/images/python.png" },
+  { "name": "JavaScript", "icon": "/images/javascript.png" },
+  { "name": "React", "icon": "/images/react.png" },
+  { "name": "Golang", "icon": "/images/Go.png" },
+  { "name": "Docker", "icon": "/images/docker.png" },
+  { "name": "PostgreSQL", "icon": "/images/postgresql.png" },
+  { "name": "C++", "icon": "/images/cpp.png" },
+  { "name": "C", "icon": "/images/clogo.png" },
+  { "name": "C#", "icon": "/images/csharp.png" },
+  { "name": "Java", "icon": "/images/java.png" }
+]
