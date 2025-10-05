@@ -207,7 +207,7 @@ const Hero = () => {
 			</TitleContactContainer>
 
 			<SocialContainer>
-				<SocialIcon href="https://github.com/LaurelEdison" target="_blank" aria-label="LinkedIn">
+				<SocialIcon href="https://www.linkedin.com/in/ferdinand-laurel-4317531aa/" target="_blank" aria-label="LinkedIn">
 					<FontAwesomeIcon icon={faLinkedin} />
 				</SocialIcon>
 				<SocialIcon href="https://github.com/LaurelEdison" target="_blank" aria-label="GitHub">
