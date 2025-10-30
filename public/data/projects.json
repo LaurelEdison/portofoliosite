@@ -8,6 +8,14 @@
       "description": "Built a web platform for practicing algorithmic problems with user authentication, problem management, and submission tracking. Designed REST APIs for user management, submissions, and lobbies. Developed a Docker-based code judge worker to safely compile and run untrusted solutions in isolated containers. This project is similar to leetcode but it has a multiplayer lobby system"
     },
     {
+      "title": "bizbridge",
+      "cover": "./images/bizbridge.png",
+      "github": "https://github.com/LaurelEdison/bizbridge",
+      "external": "https://github.com/LaurelEdison/bizbridge",
+      "tech": ["Go", "PostgreSQL", "Websockets", "React", "Tailwindcss"],
+      "description": "Built a web platform to connect investors and business owners, investors can search business owners based on business sectors and can message if interested, business owners can upload and showcase files as a way to legitimize their business. Developed both the backend and frontend, using websockets for chatting system for business owners and investors"
+    },
+    {
       "title": "Homecare-app",
       "cover": "./images/homecareapp.png",
       "github": "https://github.com/LaurelEdison/homecare-app",
